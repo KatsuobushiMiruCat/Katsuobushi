@@ -16,7 +16,7 @@ header p {
 }
 header small {
 	margin: -20px 0;
-	padding: 0 0 0 143px;
+	padding: 0 0 0 153px;
 	float: left;
 }
 body {
@@ -198,7 +198,7 @@ ol, li {
 }
  /*-----次のページボタン-----*/
  
-/*hover範囲*/
+/*範囲*/
 .carousel::before,
 .carousel::after,
 .carousel__prev,
